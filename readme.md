@@ -1,6 +1,6 @@
 # FTXNotifications
 
-This tool allows you to forward all notifications from the [FTX](https://ftx.com/referrals#a=premiums) UI to a Telegram bot. Notifications are sent for 
+This tool allows you to forward all notifications from the [FTX](https://ftx.com/#a=premiums) UI to a Telegram bot. Notifications are sent for 
 withdrawals, deposits, filled orders, liquidations etc.
 
 ## Screenshots
