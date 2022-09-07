@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "notification_monitor",
+      "script": "/bin/bash",
+      "namespace": "ftxnotifications",
+      "args": [
+        "-c",
+        "venv/bin/python -m ftxnotifications.main"
+      ]
+    }
+  ]
+}
